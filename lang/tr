@@ -4,8 +4,8 @@ homepage=module ana sayfası
 index_nopass=Webmin needs to know your root password in order to manage the fax queues.<br>Please enter your password below.
 index_pass=Root Parolası
 
-start_hylafax=HylaFAX server'ı başlat
-stop_hylafax=HylaFAX server'ı durdur
+start_hylafax=HylaFAX sunucusunu başlat
+stop_hylafax=HylaFAX sunucusunu durdur
 restart_hylafax=HylaFAX'ı yeniden başlat
 is_not_running=The HylaFAX server is not running on
 is_not_installed=Unable to locate the HylaFAX server on your system. Either it's not installed, or your <A HREF="/config.cgi?hylafax">module configuration</A> is incorrect
