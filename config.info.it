@@ -1,0 +1,8 @@
+start_cmd=Comando di avvio di HylaFax,0
+stop_cmd=Comando di arresto di HylaFax,0
+spool_path=Cartella di Spool,8
+conf_path=Posizione di hfaxd.conf o hyla.conf e pagesizes,8
+fax_size=Raddoppiare l'altezza visualizzata dei fax TIFF?,1,2-Si,1-No
+fit_screen=Contenere la visualizzazione del fax entro lo schermo?,1,1-Si,0-No
+synchronize=Allinea gli utenti HylaFax con gli utenti di sistema?,1,1-Si,0-No
+chkupdate=Controllo nuove versioni?,1,1-Si,0-No

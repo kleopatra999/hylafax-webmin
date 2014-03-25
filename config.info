@@ -1,0 +1,8 @@
+start_cmd=Command to start HylaFax,0
+stop_cmd=Command to stop HylaFax,0
+spool_path=Spool directory,8
+conf_path=Directory of hfaxd.conf or hyla.conf and pagesizes,8
+fax_size=Double displayed height of TIFF faxes?,1,2-Yes,1-No
+fit_screen=Shrink fax displaying size on the screen?,1,1-Yes,0-No
+synchronize=Synchronize HylaFax users with System Users?,1,1-Yes,0-No
+chkupdate=Check for new releases?,1,1-Yes,0-No

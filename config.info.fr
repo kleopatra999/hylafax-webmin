@@ -1,0 +1,8 @@
+start_cmd=Script de d&eacute;marrage d'HylaFax,0
+stop_cmd=Script d'arr&ecirc;t d'HylaFax,0
+spool_path=R&eacute;pertoire du spool,8
+conf_path=R&eacute;pertoire de configuration (hyla.conf ou hfaxd.conf et pagesizes),8
+fax_size=Doubler la taille d'affichage des faxs (TIFF)?,1,2-Oui,1-Non
+fit_screen=Dimensionner la taille d'affichage des faxs &agrave; tout l'&eacute;cran?,1,1-Oui,0-Non
+synchronize=Synchroniser les utilisateurs de HylaFax avec des utilisateurs de système?,1,1-Oui,0-Non
+chkupdate=V&eacute;rifier la disponibilit&eacute; des nouvelles versions?,1,1-Oui,0-Non

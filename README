@@ -1,0 +1,8 @@
+In order to run this module, you need at least: 
+
+- the CGI Perl-Module
+- the ImageMagick program 
+
+The CGI Perl Module can be obtained from www.cpan.org
+
+ImageMagick can be obtained from www.imagemagick.org

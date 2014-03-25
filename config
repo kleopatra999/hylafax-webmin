@@ -1,0 +1,8 @@
+start_cmd=/etc/init.d/hylafax start
+stop_cmd=/etc/init.d/hylafax stop
+spool_path=/var/spool/hylafax
+conf_path=/etc/hylafax
+fit_screen=0
+fax_size=2
+chkupdate=1
+synchronize=1
