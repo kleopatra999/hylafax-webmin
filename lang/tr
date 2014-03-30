@@ -1,13 +1,13 @@
 index_title=HylaFAX sunucusu
 homepage=modül ana sayfası
-index_nopass=Fax kuyruklarını yönetmek için Webmin'in root parolanızı bilmesi gerekmektedir.<br>Lütfen aşağıya parolanızı giriniz.
+index_nopass=Fax kuyruklarını yönetmek için Webmin'in root parolanızı bilmesi gerekmektedir.Lütfen aşağıya parolanızı giriniz.
 index_pass=Root Parolası
 
 start_hylafax=HylaFAX sunucusunu başlat
 stop_hylafax=HylaFAX sunucusunu durdur
 restart_hylafax=HylaFAX'ı yeniden başlat
 is_not_running=HylaFAX sunucusu çalışmıyor
-is_not_installed=Sisteminizdeki HylaFAX sunucusu bulunamıyor. Dolayısıyla ya indirilmedi ya da sizin <A HREF="/config.cgi?hylafax"> modül yapılanıdrması</A> hatalı
+is_not_installed=Sisteminizdeki HylaFAX sunucusu bulunamıyor. Dolayısıyla ya indirilmedi ya da sizin modül yapılanıdrmanız hatalı
 not_found=bulunamadı
 todo=Bu kısım gelişim aşamasındadır
 numbers_only=lütfen sadece rakamlar
