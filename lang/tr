@@ -1,6 +1,6 @@
 index_title=HylaFAX sunucusu
 homepage=modül ana sayfası
-index_nopass=Fax kuyruklarını yönetmek için Webmin'in root parolanızı bilmesi gerekmektedir.Lütfen aşağıya parolanızı giriniz.
+index_nopass=Fax kuyruklarını yönetmek için Webmin'in root parolanızı bilmesi gerekmektedir. Lütfen aşağıya parolanızı giriniz.
 index_pass=Root Parolası
 
 start_hylafax=HylaFAX sunucusunu başlat
