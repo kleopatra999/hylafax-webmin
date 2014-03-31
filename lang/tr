@@ -1,6 +1,6 @@
 index_title=HylaFAX sunucusu
-homepage=modül ana sayfası
-index_nopass=Fax kuyruklarını yönetmek için Webmin'in root parolanızı bilmesi gerekmektedir. Lütfen aşağıya parolanızı giriniz.
+homepage=modül ana sayfasý
+index_nopass=Fax kuyruklarýný yönetmek için Webmin'in root parolanýzý bilmesi gerekmektedir. Lütfen aşağýya parolanýzý gir"niz.
 index_pass=Root Parolası
 
 start_hylafax=HylaFAX sunucusunu başlat
@@ -14,7 +14,7 @@ numbers_only=lütfen sadece rakamlar
 
 stop_err=HylaFAX durdurulurken  hata
 start_err=HylaFAX başlatılırken hata
-recheck=Durumu tekrar kontrol edin
+recheck=Durumu yeniden kontrol edin
 new_release=yeni sürümü edinin
 
 sendq=Gönderme kuyruğu
@@ -136,7 +136,7 @@ minute_(00-59)=dakika (00-59)
 second_(00-59)=saniye (00-59)
 
 conf_hosts_title=HylaFAX sunucusu kullanıcıları
-user=kullanıcı adı
+user=kullanıcı
 passwd=normal kullanıcı parolası
 adminwd=yönetici parolası       
 from=from? yönetici(ana bilgisayar?) / alt ağ / etki alanı(domain?)
